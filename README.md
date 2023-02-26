@@ -1,4 +1,2 @@
 # Programowanie
-z lekcji Pana F.
-
-############# - inny program
+notatki z lekcji Pana F.
