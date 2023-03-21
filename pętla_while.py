@@ -23,5 +23,5 @@ proby = 0
 while odpowiedz != 't' and odpowiedz != 'n':
     proby = proby + 1
     odpowiedz = input("koniec? (t/n)")
-print(f"Wybrales " {odpowiedz})
-print("Ilosc prob: " {proby})
+print(f"Wybrales: {odpowiedz}")
+print(f"Ilosc prob: {proby}")
